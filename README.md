@@ -1,1 +1,6 @@
-# nghia-windows-manager-screenshots
+```bash
+cd ~/Pictures/Screenshots
+# git clone         cd  
+```
+
+
